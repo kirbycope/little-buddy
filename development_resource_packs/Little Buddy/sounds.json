@@ -1,7 +1,24 @@
 {
 	"entity_sounds": {
 		"entities": {
-			"little_buddy:default": {
+			"little_buddy:bluestarlord488": {
+				"events": {
+					"ambient": "mob.little_buddy.bluestarlord488_idle",
+					"celebrate": "mob.little_buddy.bluestarlord488_celebrate",
+					"death": "mob.little_buddy.bluestarlord488_death",
+					"disappeared": "mob.little_buddy.bluestarlord488_disappeared",
+					"drink": "mob.little_buddy.bluestarlord488_drink",
+					"haggle.no": "mob.little_buddy.bluestarlord488_no",
+					"haggle.yes": "mob.little_buddy.bluestarlord488_yes",
+					"hurt": "mob.little_buddy.bluestarlord488_hit",
+					"reappeared": "mob.little_buddy.bluestarlord488_reappeared"
+				},
+				"pitch": [
+					1.00
+				],
+				"volume": 1.0
+			},
+			"little_buddy:sonorouskiizzu": {
 				"events": {
 					"ambient": "mob.little_buddy.sonorouskiizzu_idle",
 					"celebrate": "mob.little_buddy.sonorouskiizzu_celebrate",

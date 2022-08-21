@@ -1,6 +1,60 @@
 {
     "format_version": "1.14.0",
     "sound_definitions": {
+        "mob.little_buddy.bluestarlord488_idle": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/bluestarlord488_idle"
+            ]
+        },
+        "mob.little_buddy.bluestarlord488_celebrate": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/bluestarlord488_celebrate"
+            ]
+        },
+        "mob.little_buddy.bluestarlord488_death": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/bluestarlord488_death"
+            ]
+        },
+        "mob.little_buddy.bluestarlord488_disappeared": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/bluestarlord488_disappeared"
+            ]
+        },
+        "mob.little_buddy.bluestarlord488_drink": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/bluestarlord488_drink"
+            ]
+        },
+        "mob.little_buddy.bluestarlord488_no": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/bluestarlord488_no"
+            ]
+        },
+        "mob.little_buddy.bluestarlord488_yes": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/bluestarlord488_yes"
+            ]
+        },
+        "mob.little_buddy.bluestarlord488_hit": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/bluestarlord488_hit"
+            ]
+        },
+        "mob.little_buddy.bluestarlord488_reappeared": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/bluestarlord488_reappeared"
+            ]
+        },
         "mob.little_buddy.sonorouskiizzu_idle": {
             "category": "neutral",
             "sounds": [

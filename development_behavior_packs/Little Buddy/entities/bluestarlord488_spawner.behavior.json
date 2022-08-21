@@ -1,0 +1,19 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "little_buddy:bluestarlord488_spawner",
+            "runtime_identifier": "minecraft:arrow",
+            "is_spawnable": true,
+            "is_summonable": true,
+            "is_experimental": false
+        },
+        "components": {
+            "minecraft:projectile": {},
+            "minecraft:transformation": {
+                "into": "little_buddy:bluestarlord488<minecraft:ontame>",
+                "keep_owner": true
+            }
+        }
+    }
+}

@@ -55,6 +55,28 @@
             "num_to_spawn": 1
           }
         }
+      },
+      "little_buddy:spawn_bluestarlord488": {
+        "minecraft:spawn_entity": {
+          "entities": {
+            "min_wait_time": 0,
+            "max_wait_time": 0,
+            "spawn_entity": "little_buddy:bluestarlord488",
+            "single_use": true,
+            "num_to_spawn": 1
+          }
+        }
+      },
+      "little_buddy:spawn_sonorouskiizzu": {
+        "minecraft:spawn_entity": {
+          "entities": {
+            "min_wait_time": 0,
+            "max_wait_time": 0,
+            "spawn_entity": "little_buddy:sonorouskiizzu",
+            "single_use": true,
+            "num_to_spawn": 1
+          }
+        }
       }
     },
     "components": {
@@ -229,6 +251,20 @@
         "add": {
           "component_groups": [
             "little_buddy:spawn_buddy"
+          ]
+        }
+      },
+      "little_buddy:spawn_bluestarlord488": {
+        "add": {
+          "component_groups": [
+            "little_buddy:spawn_bluestarlord488"
+          ]
+        }
+      },
+      "little_buddy:spawn_sonorouskiizzu": {
+        "add": {
+          "component_groups": [
+            "little_buddy:spawn_sonorouskiizzu"
           ]
         }
       }

@@ -25,9 +25,6 @@
 					"speed_multiplier": 1.0,
 					"start_distance": 10,
 					"stop_distance": 2
-				},
-				"minecraft:attack": {
-					"damage": 3
 				}
 			},
 			"little_buddy:variant_0": {
@@ -88,26 +85,19 @@
 				"priority": 3,
 				"speed_multiplier": 0.8
 			},
-			"minecraft:nameable": {
-				"always_show": true
+			"minecraft:behavior.hurt_by_target": {
+				"priority": 4
+			},
+			"minecraft:behavior.equip_item": {
+				"priority": 5
 			},
 			"minecraft:behavior.look_at_player": {
 				"priority": 6,
 				"target_distance": 6.0,
 				"probability": 0.02
 			},
-			"minecraft:equip_item": {},
-			"minecraft:equipment": {
-				"table": "loot_tables/entities/little_buddy_gear.json"
-			},
-			"minecraft:behavior.equip_item": {
-				"priority": 5
-			},
-			"minecraft:behavior.hurt_by_target": {
-				"priority": 4
-			},
 			"minecraft:behavior.avoid_mob_type": {
-				"priority": 3,
+				"priority": 7,
 				"entity_types": [
 					{
 						"filters": {
@@ -121,6 +111,19 @@
 					}
 				],
 				"probability_per_strength": 0.14
+			},
+			"minecraft:behavior.melee_attack": {
+				"priority": 8
+			},
+			"minecraft:nameable": {
+				"always_show": true
+			},
+			"minecraft:attack": {
+				"damage": 3
+			},
+			"minecraft:equip_item": {},
+			"minecraft:equipment": {
+				"table": "loot_tables/entities/little_buddy_gear.json"
 			}
 		},
 		"events": {
