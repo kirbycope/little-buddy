@@ -1,18 +1,22 @@
 {
 	"entity_sounds": {
 		"entities": {
-			"little_buddy": {
-				"events" : {
-					"ambient" : "mob.little_brother.sonorouskiizzu_idle",
-					"death" : "mob.little_brother.sonorouskiizzu_death",
-					"death.to.zombie" : "mob.little_brother.sonorouskiizzu_death",
-					"haggle" : "mob.little_brother.sonorouskiizzu_haggle",
-					"haggle.no" : "mob.little_brother.sonorouskiizzu_no",
-					"haggle.yes" : "mob.little_brother.sonorouskiizzu_yes",
-					"hurt" : "mob.little_brother.sonorouskiizzu_hit"
-				 },
-				 "pitch" : [ 0.80, 1.20 ],
-				 "volume" : 1.0
+			"little_buddy:default": {
+				"events": {
+					"ambient": "mob.little_buddy.sonorouskiizzu_idle",
+					"celebrate": "mob.little_buddy.sonorouskiizzu_celebrate",
+					"death": "mob.little_buddy.sonorouskiizzu_death",
+					"disappeared": "mob.little_buddy.sonorouskiizzu_disappeared",
+					"drink": "mob.little_buddy.sonorouskiizzu_drink",
+					"haggle.no": "mob.little_buddy.sonorouskiizzu_no",
+					"haggle.yes": "mob.little_buddy.sonorouskiizzu_yes",
+					"hurt": "mob.little_buddy.sonorouskiizzu_hit",
+					"reappeared": "mob.little_buddy.sonorouskiizzu_reappeared"
+				},
+				"pitch": [
+					1.00
+				],
+				"volume": 1.0
 			}
 		}
 	}
