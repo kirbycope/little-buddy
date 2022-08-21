@@ -1,6 +1,5 @@
 # little-buddy
-[![Tower-Mushroom](/mob-spawner-bedrock.png)](https://www.youtube.com/watch?v=Imk1t0bxYyA)
-
+![Little-Buddy](/little-buddy.png)
 
 ## Installing the Add-on
 1. Download and run the [.mcaddon](https://github.com/kirbycope/little_buddy/raw/main/Little%20Buddy.mcaddon) file
