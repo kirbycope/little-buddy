@@ -1,5 +1,19 @@
 {
 	"entity_sounds": {
-		"entities": {}
+		"entities": {
+			"little_buddy": {
+				"events" : {
+					"ambient" : "mob.little_brother.sonorouskiizzu_idle",
+					"death" : "mob.little_brother.sonorouskiizzu_death",
+					"death.to.zombie" : "mob.little_brother.sonorouskiizzu_death",
+					"haggle" : "mob.little_brother.sonorouskiizzu_haggle",
+					"haggle.no" : "mob.little_brother.sonorouskiizzu_no",
+					"haggle.yes" : "mob.little_brother.sonorouskiizzu_yes",
+					"hurt" : "mob.little_brother.sonorouskiizzu_hit"
+				 },
+				 "pitch" : [ 0.80, 1.20 ],
+				 "volume" : 1.0
+			}
+		}
 	}
 }
