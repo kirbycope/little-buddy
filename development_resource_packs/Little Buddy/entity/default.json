@@ -4,8 +4,8 @@
 		"description": {
 			"identifier": "little_buddy:default",
 			"spawn_egg": {
-				"base_color": "#ff0000",
-				"overlay_color": "#0000ff"
+				"base_color": "#000000",
+				"overlay_color": "#000000"
 			},
 			"materials": {
 				"default": "villager_v2"
