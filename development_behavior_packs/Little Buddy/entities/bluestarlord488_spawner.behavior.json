@@ -11,7 +11,7 @@
         "components": {
             "minecraft:projectile": {},
             "minecraft:transformation": {
-                "into": "little_buddy:bluestarlord488<minecraft:ontame>",
+                "into": "little_buddy:bluestarlord488<minecraft:on_tame>",
                 "keep_owner": true
             }
         }
