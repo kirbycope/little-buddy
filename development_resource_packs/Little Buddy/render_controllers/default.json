@@ -1,0 +1,27 @@
+{
+    "format_version": "1.8.0",
+    "render_controllers": {
+        "controller.render.little_buddy": {
+            "arrays": {
+                "textures": {
+                    "Array.variant": [
+                        "Texture.default",
+                        "Texture.bluestarlord488",
+                        "Texture.kirbycope",
+                        "Texture.redstarlord3097",
+                        "Texture.sonorouskiizzu"
+                    ]
+                }
+            },
+            "geometry": "Geometry.default",
+            "materials": [
+                {
+                    "*": "Material.default"
+                }
+            ],
+            "textures": [
+                "Array.variant[ query.variant ]"
+            ]
+        }
+    }
+}

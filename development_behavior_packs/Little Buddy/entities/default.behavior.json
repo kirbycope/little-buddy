@@ -1,0 +1,170 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "little_buddy:default",
+			"is_spawnable": false,
+			"is_summonable": true,
+			"is_experimental": false
+		},
+		"component_groups": {
+			"little_buddy:tame": {
+				"minecraft:is_tamed": {},
+				"minecraft:health": {
+					"value": 20,
+					"max": 20
+				},
+				"minecraft:behavior.owner_hurt_by_target": {
+					"priority": 1
+				},
+				"minecraft:behavior.owner_hurt_target": {
+					"priority": 2
+				},
+				"minecraft:behavior.follow_owner": {
+					"priority": 9,
+					"speed_multiplier": 1.0,
+					"start_distance": 10,
+					"stop_distance": 2
+				},
+				"minecraft:attack": {
+					"damage": 3
+				}
+			},
+			"little_buddy:variant_0": {
+				"minecraft:variant": {
+					"value": 0
+				},
+				"minecraft:scale": {
+					"value": 0.75
+				}
+			},
+			"little_buddy:variant_1": {
+				"minecraft:variant": {
+					"value": 1
+				},
+				"minecraft:scale": {
+					"value": 0.7
+				}
+			},
+			"little_buddy:variant_2": {
+				"minecraft:variant": {
+					"value": 2
+				}
+			},
+			"little_buddy:variant_3": {
+				"minecraft:variant": {
+					"value": 3
+				},
+				"minecraft:scale": {
+					"value": 0.65
+				}
+			},
+			"little_buddy:variant_4": {
+				"minecraft:variant": {
+					"value": 4
+				}
+			}
+		},
+		"components": {
+			"minecraft:physics": {
+				"has_gravity": true,
+				"has_collision": true
+			},
+			"minecraft:pushable": {
+				"is_pushable": false
+			},
+			"minecraft:push_through": {
+				"value": 1
+			},
+			"minecraft:movement": {
+				"value": 0.25
+			},
+			"minecraft:movement.basic": {},
+			"minecraft:jump.static": {},
+			"minecraft:navigation.walk": {
+				"avoid_water": true
+			},
+			"minecraft:behavior.random_stroll": {
+				"priority": 3,
+				"speed_multiplier": 0.8
+			},
+			"minecraft:nameable": {
+				"always_show": true
+			},
+			"minecraft:behavior.look_at_player": {
+				"priority": 6,
+				"target_distance": 6.0,
+				"probability": 0.02
+			},
+			"minecraft:equip_item": {},
+			"minecraft:equipment": {
+				"table": "loot_tables/entities/little_buddy_gear.json"
+			},
+			"minecraft:behavior.equip_item": {
+				"priority": 5
+			},
+			"minecraft:behavior.hurt_by_target": {
+				"priority": 4
+			},
+			"minecraft:behavior.avoid_mob_type": {
+				"priority": 3,
+				"entity_types": [
+					{
+						"filters": {
+							"test": "is_family",
+							"subject": "other",
+							"value": "creeper"
+						},
+						"max_dist": 24,
+						"walk_speed_multiplier": 1.5,
+						"sprint_speed_multiplier": 1.5
+					}
+				],
+				"probability_per_strength": 0.14
+			}
+		},
+		"events": {
+			"minecraft:on_tame": {},
+			"little_buddy:steve": {
+				"add": {
+					"component_groups": [
+						"little_buddy:variant_0",
+						"little_buddy:tame"
+					]
+				}
+			},
+			"little_buddy:bluestarlord488": {
+				"add": {
+					"component_groups": [
+						"little_buddy:variant_1",
+						"little_buddy:tame"
+					]
+				}
+			},
+			"little_buddy:kirbycope": {
+				"add": {
+					"component_groups": [
+						"little_buddy:variant_2",
+						"little_buddy:tame"
+					]
+				}
+			},
+			"little_buddy:redstarlord3097": {
+				"add": {
+					"component_groups": [
+						"little_buddy:variant_3",
+						"little_buddy:tame"
+					]
+				}
+			},
+			"little_buddy:sonorouskiizzu": {
+				"add": {
+					"component_groups": [
+						"little_buddy:variant_4",
+						"little_buddy:tame"
+					]
+				}
+			}
+		}
+	}
+}

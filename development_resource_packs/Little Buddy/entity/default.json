@@ -1,0 +1,46 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "little_buddy:default",
+			"spawn_egg": {
+				"base_color": "#ff0000",
+				"overlay_color": "#0000ff"
+			},
+			"materials": {
+				"default": "villager_v2"
+			},
+			"geometry": {
+				"default": "geometry.npc.steve"
+			},
+			"render_controllers": [
+				"controller.render.little_buddy"
+			],
+			"textures": {
+				"default": "textures/entity/little_buddy/default",
+				"bluestarlord488": "textures/entity/little_buddy/bluestarlord488",
+				"kirbycope": "textures/entity/little_buddy/kirbycope",
+				"redstarlord3097": "textures/entity/little_buddy/redstarlord3097",
+				"sonorouskiizzu": "textures/entity/little_buddy/sonorouskiizzu"
+			},
+			"scripts": {
+				"scale": "0.9375",
+				"pre_animation": [
+					"variable.tcos0 = (math.cos(query.modified_distance_moved * 38.17) * query.modified_move_speed / variable.gliding_speed_value) * 57.3;"
+				],
+				"animate": [
+					"move.arms",
+					"move.legs",
+					"look_at_target_default",
+					"bob"
+				]
+			},
+			"animations": {
+				"look_at_target_default": "animation.humanoid.look_at_target.default",
+				"move.arms": "animation.player.move.arms",
+				"move.legs": "animation.player.move.legs",
+				"bob": "animation.player.bob"
+			}
+		}
+	}
+}
