@@ -1,0 +1,16 @@
+{
+	"texture_data": {
+		"bluestarlord488_spawn_egg": {
+			"textures": ["textures/items/little_buddy/bluestarlord488_face"]
+		},
+		"kirbycope_spawn_egg": {
+			"textures": ["textures/items/little_buddy/kirbycope_face"]
+		},
+		"redstarlord3097_spawn_egg": {
+			"textures": ["textures/items/little_buddy/redstarlord3097_face"]
+		},
+		"sonorouskiizzu_spawn_egg": {
+			"textures": ["textures/items/little_buddy/sonorouskiizzu_face"]
+		}
+	}
+}

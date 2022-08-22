@@ -4,8 +4,7 @@
 		"description": {
 			"identifier": "little_buddy:sonorouskiizzu_spawner",
 			"spawn_egg": {
-				"base_color": "#025967",
-				"overlay_color": "#361677"
+				"texture": "sonorourkiizzu_spawn_egg"
 			}
 		}
 	}

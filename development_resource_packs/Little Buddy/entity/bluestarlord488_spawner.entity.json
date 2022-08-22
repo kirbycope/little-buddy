@@ -4,8 +4,7 @@
 		"description": {
 			"identifier": "little_buddy:bluestarlord488_spawner",
 			"spawn_egg": {
-				"base_color": "#0000ff",
-				"overlay_color": "#ff0000"
+				"texture": "bluestarlord488_spawn_egg"
 			}
 		}
 	}
