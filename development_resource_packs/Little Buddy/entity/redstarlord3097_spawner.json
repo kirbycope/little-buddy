@@ -2,10 +2,9 @@
 	"format_version": "1.10.0",
 	"minecraft:client_entity": {
 		"description": {
-			"identifier": "little_buddy:steve",
+			"identifier": "little_buddy:redstarlord3097_spawner",
 			"spawn_egg": {
-				"base_color": "#006400",
-				"overlay_color": "#964B00"
+				"texture": "redstarlord3097_spawn_egg"
 			}
 		}
 	}

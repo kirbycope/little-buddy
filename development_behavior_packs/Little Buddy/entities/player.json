@@ -67,6 +67,28 @@
           }
         }
       },
+      "little_buddy:spawn_kirbycope": {
+        "minecraft:spawn_entity": {
+          "entities": {
+            "min_wait_time": 0,
+            "max_wait_time": 0,
+            "spawn_entity": "little_buddy:kirbycope",
+            "single_use": true,
+            "num_to_spawn": 1
+          }
+        }
+      },
+      "little_buddy:spawn_redstarlord3097": {
+        "minecraft:spawn_entity": {
+          "entities": {
+            "min_wait_time": 0,
+            "max_wait_time": 0,
+            "spawn_entity": "little_buddy:redstarlord3097",
+            "single_use": true,
+            "num_to_spawn": 1
+          }
+        }
+      },
       "little_buddy:spawn_sonorouskiizzu": {
         "minecraft:spawn_entity": {
           "entities": {
@@ -258,6 +280,20 @@
         "add": {
           "component_groups": [
             "little_buddy:spawn_bluestarlord488"
+          ]
+        }
+      },
+      "little_buddy:spawn_kirbycope": {
+        "add": {
+          "component_groups": [
+            "little_buddy:spawn_kirbycope"
+          ]
+        }
+      },
+      "little_buddy:spawn_redstarlord3097": {
+        "add": {
+          "component_groups": [
+            "little_buddy:spawn_redstarlord3097"
           ]
         }
       },

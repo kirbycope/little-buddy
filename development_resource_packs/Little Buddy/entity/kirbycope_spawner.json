@@ -2,10 +2,9 @@
 	"format_version": "1.10.0",
 	"minecraft:client_entity": {
 		"description": {
-			"identifier": "little_buddy:kirbycope",
+			"identifier": "little_buddy:kirbycope_spawner",
 			"spawn_egg": {
-				"base_color": "#FFA500",
-				"overlay_color": "#FFFF00"
+				"texture": "kirbycope_spawn_egg"
 			}
 		}
 	}

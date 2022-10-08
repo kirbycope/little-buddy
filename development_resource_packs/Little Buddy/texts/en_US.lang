@@ -6,12 +6,18 @@ item.spawn_egg.entity.little_buddy:bluestarlord488_spawner.name=Spawn BlueStarLo
 entity.little_buddy:bluestarlord488.name=BlueStarLord488
 item.spawn_egg.entity.little_buddy:bluestarlord488.name=Spawn BlueStarLord488
 
+entity.little_buddy:kirbycope_spawner.name=Kirbycope Spawner
+item.spawn_egg.entity.little_buddy:kirbycope_spawner.name=Spawn Kirbycope
 entity.little_buddy:kirbycope.name=Kirbycope
 item.spawn_egg.entity.little_buddy:kirbycope.name=Spawn Kirbycope
 
+entity.little_buddy:redstarlord3097_spawner.name=RedStarLord3097 Spawner
+item.spawn_egg.entity.little_buddy:redstarlord3097_spawner.name=Spawn RedStarLord3097
 entity.little_buddy:redstarlord3097.name=RedStarLord3097
 item.spawn_egg.entity.little_buddy:redstarlord3097.name=Spawn RedStarLord3097
 
+entity.little_buddy:steve_spawner.name=Steve Spawner
+item.spawn_egg.entity.little_buddy:steve_spawner.name=Spawn Steve
 entity.little_buddy:steve.name=Steve
 item.spawn_egg.entity.little_buddy:steve.name=Spawn Steve
 

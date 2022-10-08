@@ -55,6 +55,114 @@
                 "sounds/mob/little_buddy/bluestarlord488_reappeared"
             ]
         },
+        "mob.little_buddy.kirbycope_idle": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/kirbycope_idle"
+            ]
+        },
+        "mob.little_buddy.kirbycope_celebrate": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/kirbycope_celebrate"
+            ]
+        },
+        "mob.little_buddy.kirbycope_death": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/kirbycope_death"
+            ]
+        },
+        "mob.little_buddy.kirbycope_disappeared": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/kirbycope_disappeared"
+            ]
+        },
+        "mob.little_buddy.kirbycope_drink": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/kirbycope_drink"
+            ]
+        },
+        "mob.little_buddy.kirbycope_no": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/kirbycope_no"
+            ]
+        },
+        "mob.little_buddy.kirbycope_yes": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/kirbycope_yes"
+            ]
+        },
+        "mob.little_buddy.kirbycope_hit": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/kirbycope_hit"
+            ]
+        },
+        "mob.little_buddy.kirbycope_reappeared": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/kirbycope_reappeared"
+            ]
+        },
+        "mob.little_buddy.redstarlord3097_idle": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/redstarlord3097_idle"
+            ]
+        },
+        "mob.little_buddy.redstarlord3097_celebrate": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/redstarlord3097_celebrate"
+            ]
+        },
+        "mob.little_buddy.redstarlord3097_death": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/redstarlord3097_death"
+            ]
+        },
+        "mob.little_buddy.redstarlord3097_disappeared": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/redstarlord3097_disappeared"
+            ]
+        },
+        "mob.little_buddy.redstarlord3097_drink": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/redstarlord3097_drink"
+            ]
+        },
+        "mob.little_buddy.redstarlord3097_no": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/redstarlord3097_no"
+            ]
+        },
+        "mob.little_buddy.redstarlord3097_yes": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/redstarlord3097_yes"
+            ]
+        },
+        "mob.little_buddy.redstarlord3097_hit": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/redstarlord3097_hit"
+            ]
+        },
+        "mob.little_buddy.redstarlord3097_reappeared": {
+            "category": "neutral",
+            "sounds": [
+                "sounds/mob/little_buddy/redstarlord3097_reappeared"
+            ]
+        },
         "mob.little_buddy.sonorouskiizzu_idle": {
             "category": "neutral",
             "sounds": [

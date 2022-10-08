@@ -20,7 +20,7 @@
 				"default": "textures/entity/little_buddy/bluestarlord488"
 			},
 			"scripts": {
-				"scale": "0.9375",
+				"scale": "0.7",
 				"pre_animation": [
 					"variable.tcos0 = (math.cos(query.modified_distance_moved * 38.17) * query.modified_move_speed / variable.gliding_speed_value) * 57.3;"
 				],

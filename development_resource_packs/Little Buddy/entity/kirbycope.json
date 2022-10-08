@@ -2,10 +2,10 @@
 	"format_version": "1.10.0",
 	"minecraft:client_entity": {
 		"description": {
-			"identifier": "little_buddy:default",
+			"identifier": "little_buddy:kirbycope",
 			"spawn_egg": {
-				"base_color": "#000000",
-				"overlay_color": "#000000"
+				"base_color": "#FFA500",
+				"overlay_color": "#FFFF00"
 			},
 			"materials": {
 				"default": "villager_v2"
@@ -14,17 +14,13 @@
 				"default": "geometry.npc.steve"
 			},
 			"render_controllers": [
-				"controller.render.little_buddy"
+				"controller.render.default"
 			],
 			"textures": {
-				"default": "textures/entity/little_buddy/default",
-				"bluestarlord488": "textures/entity/little_buddy/bluestarlord488",
-				"kirbycope": "textures/entity/little_buddy/kirbycope",
-				"redstarlord3097": "textures/entity/little_buddy/redstarlord3097",
-				"sonorouskiizzu": "textures/entity/little_buddy/sonorouskiizzu"
+				"default": "textures/entity/little_buddy/kirbycope"
 			},
 			"scripts": {
-				"scale": "0.75",
+				"scale": "0.9375",
 				"pre_animation": [
 					"variable.tcos0 = (math.cos(query.modified_distance_moved * 38.17) * query.modified_move_speed / variable.gliding_speed_value) * 57.3;"
 				],

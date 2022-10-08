@@ -9,6 +9,9 @@
 		"redstarlord3097_spawn_egg": {
 			"textures": ["textures/items/little_buddy/redstarlord3097_face"]
 		},
+		"steve_spawn_egg": {
+			"textures": ["textures/items/little_buddy/steve_face"]
+		},
 		"sonorouskiizzu_spawn_egg": {
 			"textures": ["textures/items/little_buddy/sonorouskiizzu_face"]
 		}

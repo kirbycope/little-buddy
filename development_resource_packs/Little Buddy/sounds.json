@@ -18,6 +18,40 @@
 				],
 				"volume": 1.0
 			},
+			"little_buddy:kirbycope": {
+				"events": {
+					"ambient": "mob.little_buddy.kirbycope_idle",
+					"celebrate": "mob.little_buddy.kirbycope_celebrate",
+					"death": "mob.little_buddy.kirbycope_death",
+					"disappeared": "mob.little_buddy.kirbycope_disappeared",
+					"drink": "mob.little_buddy.kirbycope_drink",
+					"haggle.no": "mob.little_buddy.kirbycope_no",
+					"haggle.yes": "mob.little_buddy.kirbycope_yes",
+					"hurt": "mob.little_buddy.kirbycope_hit",
+					"reappeared": "mob.little_buddy.kirbycope_reappeared"
+				},
+				"pitch": [
+					1.00
+				],
+				"volume": 1.0
+			},
+			"little_buddy:redstarlord3097": {
+				"events": {
+					"ambient": "mob.little_buddy.redstarlord3097_idle",
+					"celebrate": "mob.little_buddy.redstarlord3097_celebrate",
+					"death": "mob.little_buddy.redstarlord3097_death",
+					"disappeared": "mob.little_buddy.redstarlord3097_disappeared",
+					"drink": "mob.little_buddy.redstarlord3097_drink",
+					"haggle.no": "mob.little_buddy.redstarlord3097_no",
+					"haggle.yes": "mob.little_buddy.redstarlord3097_yes",
+					"hurt": "mob.little_buddy.redstarlord3097_hit",
+					"reappeared": "mob.little_buddy.redstarlord3097_reappeared"
+				},
+				"pitch": [
+					1.00
+				],
+				"volume": 1.0
+			},
 			"little_buddy:sonorouskiizzu": {
 				"events": {
 					"ambient": "mob.little_buddy.sonorouskiizzu_idle",
