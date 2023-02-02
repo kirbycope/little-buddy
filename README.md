@@ -10,10 +10,14 @@
 *Note: Spawn Eggs are available in the Creative menu
 - `/event entity @p little_buddy:spawn_buddy`
    - Spawns a Little Buddy (random variant)
-- `/event entity @p little_buddy:spawn_bluestarlord488`
+- `/event entity @p little_buddy:bluestarlord488_spawner_spawn_egg`
    - Spawns BlueStarLord488 as your buddy
-- `/event entity @p little_buddy:spawn_SonorousKiizzu`
+- `/event entity @p little_buddy:kirbycope_spawner_spawn_egg`
+   - Spawns BlueStarLord488 as your buddy
+- `/event entity @p little_buddy:SonorousKiizzu_spawner_spawn_egg`
    - Spawns SonorousKiizzu as your buddy
+- `/event entity @p little_buddy:Steve_spawner_spawn_egg`
+   - Spawns Steve as your buddy
   
 ## Packaging the Add-on
 1. Open a new terminal in Visual Studio Code
