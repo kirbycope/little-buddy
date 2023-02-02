@@ -2,7 +2,7 @@
 ![Little-Buddy](/little-buddy.png)
 
 ## Installing the Add-on
-1. Download and run the [.mcaddon](https://github.com/kirbycope/little-buddy/raw/main/Little%20Buddy.mcaddon) file
+1. Download and run the [.mcaddon](https://github.com/kirbycope/little-buddy/raw/main/little-buddy.mcaddon) file
 1. Double-click to install using Minecraft
 1. Activate the behavior pack and resource pack for your world
       
