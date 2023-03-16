@@ -1,5 +1,7 @@
-# little-buddy
 ![Little-Buddy](/little-buddy.png)
+
+# little-buddy
+A little buddy to adventure with you in Minecraft Bedrock Edition.
 
 ## Installing the Add-on
 1. Download and run the [.mcaddon](https://github.com/kirbycope/little-buddy/raw/main/little-buddy.mcaddon) file
