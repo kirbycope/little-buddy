@@ -4,7 +4,7 @@
 A little buddy to adventure with you in Minecraft Bedrock Edition.
 
 ## Installing the Add-on
-1. Download and run the [.mcaddon](https://github.com/kirbycope/little-buddy/raw/main/little-buddy.mcaddon) file
+1. Download and run the [.mcaddon](https://github.com/kirbycope/little-buddy/releases/latest/download/little-buddy.mcaddon) file
 1. Double-click to install using Minecraft
 1. Activate the behavior pack and resource pack for your world
       
@@ -24,3 +24,7 @@ A little buddy to adventure with you in Minecraft Bedrock Edition.
 ## Packaging the Add-on
 1. Open a new terminal in Visual Studio Code
 1. Run `.\pack.ps1`
+
+## Requirements
+Minecraft Bedrock 1.26.0 or newer, with no experiments.
+
