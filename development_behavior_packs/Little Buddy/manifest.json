@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "Little Buddy",
-		"description": "Little Buddy Behavior Pack",
+		"description": "Little Buddy Behavior Pack 1.1.1",
 		"uuid": "0c23cfcc-85ab-81e3-29d7-529d6b540511",
-		"version": [1, 1, 0],
+		"version": [1, 1, 1],
 		"min_engine_version": [1, 26, 0]
 	},
 	"metadata": {
@@ -13,7 +13,7 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 1, 0],
+			"version": [1, 1, 1],
 			"uuid": "24f0bc75-f9af-21f7-5120-be1a3176ce96",
 			"type": "data"
 		}
@@ -21,7 +21,7 @@
 	"dependencies": [
 		{
 			"uuid": "a3f63447-779d-c214-5b79-20d119205e37",
-			"version": [1, 1, 0]
+			"version": [1, 1, 1]
 		}
 	]
 }
