@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "Little Buddy",
-		"description": "Little Buddy Resource Pack",
+		"description": "Little Buddy Resource Pack 1.1.1",
 		"uuid": "a3f63447-779d-c214-5b79-20d119205e37",
-		"version": [1, 1, 0],
+		"version": [1, 1, 1],
 		"min_engine_version": [1, 26, 0]
 	},
 	"metadata": {
@@ -15,7 +15,7 @@
 			"description": "Little Buddy",
 			"type": "resources",
 			"uuid": "f5114a69-6a31-d7b4-4611-07ef830469f7",
-			"version": [1, 1, 0]
+			"version": [1, 1, 1]
 		}
 	]
 }
